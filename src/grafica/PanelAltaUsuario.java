@@ -199,6 +199,9 @@ public class PanelAltaUsuario extends javax.swing.JPanel {
             Empleado e = new Empleado(identificador, login, contra, nombre, tipo);
             email.anadir(e);
         }
+        /*
+        Esto es una prueba de texto añadido. Puede ser código o un comentario
+        */
     }//GEN-LAST:event_btnGrabarActionPerformed
 
 
